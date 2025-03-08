@@ -1,0 +1,63 @@
+Introduction 
+
+good morning .. 
+My name is Gundam Vinay Kumar 
+I am from Mancherial, Telangana.
+I am perusing Bachelors of technology in civil engineering
+with the cumulative grade point average of 8.41 and the highest SGPA is 9.30 .
+
+coming to the experience ,
+I done summer Intern at e Bureau of Indian standards (MUBO I)
+It is a Government body dealing with the standard formulation, product certification and managing systems.
+Here we visited around 17 to 18 top manufacturing industries and done the conformity assessment which the role 
+From the internship .
+In the internship I gained and strengthen my ability to works with the teams, punctuality and completing the tasks to be done at the given stipulated time and presenting the task to senior officer. 
+
+
+
+My technical skills are 
+* I have hand on knowledge in c++, sql ,javascript ,data structures and algorithms in c++ and web development and machine learning.
+And about the projects,
+
+I have majorly done 2 projects which are,
+
+
+1. Medicine Advisor 
+which is mainly by using HTML, css, js and supervised machine learning classifiers (SVM)
+
+A medicine and the disease recommendation system which is mainly used the researched dataset form the Kaggle and it mainly done by the SVM classifier and tested using the other classifier also like KNN
+And interactive UI is designed and it is integrated with the flask .
+
+
+And the main features are 
+
+1. By giving the symptoms it predicts the decease and the predicts the precautions, workout, diets, medications, description
+
+
+2. Charity plus (an web page for the charitable organisation)
+which is maily using the MERN stack 
+
+IT has 2 types of accounts and they are user and the organisation account 
+
+The main features about this project are:
+* Organisation can create/delete his own post  and event
+* user can contribute to the event and like to the post / dislike the post and delete the contribution.
+* the contribution contributed by the user must be allowed/ denaied by the organisation to contributed by the user .
+* User can view the post / organisation and the other users and follow the organisation and same for the organisation type of account also .
+
+I am enthusiastic in cp, 
+Good at the coding and I achieved 3rd positon at Indutrial Genix which is an event at technical fest at IIT ISM DHANABD  concetto;
+
+I have experience in working in teams like participiated in the hackathon and in non acadamincs also I am the CO -head of security team at parakram 24 (East India's largest sports fest and 
+Organiser at srijan '23 and concetto'22 
+I am club member and the head of the ASCE club at IIT ISM DHANBAD.
+
+I also involve in exta curriculum kie playing Badminton,kabaddi 
+My hobby is photography.
+
+I really wanted to join your firm and belive Meesho will provide me ideal environment to learn and grow.
+
+
+
+
+ 
