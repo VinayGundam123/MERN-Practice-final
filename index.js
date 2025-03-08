@@ -29,10 +29,11 @@ server.use(express.json()); // bodyParser
 server.use(express.static(path.resolve(__dirname,process.env.PUBLIC_DIR))); //static hosting
 server.use('/products',productRouter.router);
 server.use('/users',userRouter.router);
+
 //integrating the frontend and the backend
 server.use('*',(req,res)=>{
   res.sendFile(path.resolve(__dirname,'build','index.html'));
-})
+});
 
 server.listen(process.env.PORT, ()=>{
   console.log('server stared')
